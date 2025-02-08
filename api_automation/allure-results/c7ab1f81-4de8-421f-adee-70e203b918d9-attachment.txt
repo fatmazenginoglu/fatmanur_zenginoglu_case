@@ -1,0 +1,3 @@
+
+🔍 Yanıt Kodu: 200
+📄 Yanıt İçeriği: {"code":200,"type":"unknown","message":"additionalMetadata: Yanlış Pet\nFile uploaded to ./Ekran görüntüsü 2025-02-06 154246.png, 50126 bytes"}

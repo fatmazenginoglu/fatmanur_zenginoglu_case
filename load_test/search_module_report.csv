@@ -1,0 +1,10 @@
+timeStamp;elapsed;label;responseCode;responseMessage;threadName;dataType;success;failureMessage;bytes;sentBytes;grpThreads;allThreads;URL;Latency;IdleTime;Connect
+1,73862E+12;3137;Search;200;Number of samples in transaction : 6, number of failing samples : 0;Thread Group 1-1;;true;;389338;5584;1;1;null;0;8;82
+1,73862E+12;192;search_common_keyword;200;OK;Thread Group 1-1;text;true;;70385;558;1;1;https://www.n11.com/arama?q=telefon;132;0;82
+1,73862E+12;1532;search_long_query;200;OK;Thread Group 1-1;text;true;;65528;894;1;1;https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon;1503;0;0
+1,73862E+12;147;search_empty_query;200;OK;Thread Group 1-1;text;true;;67527;1641;1;1;https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true;46;0;0
+1,73862E+12;46;search_empty_query-0;301;Moved Permanently;Thread Group 1-1;;true;;895;803;1;1;https://www.n11.com/arama?q=;46;0;0
+1,73862E+12;101;search_empty_query-1;200;OK;Thread Group 1-1;text;true;;66632;838;1;1;https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true;52;0;0
+1,73862E+12;741;search_special_characters;200;OK;Thread Group 1-1;text;true;;50883;850;1;1;https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho;728;0;0
+1,73862E+12;432;search_numeric_query;200;OK;Thread Group 1-1;text;true;;49109;828;1;1;https://www.n11.com/arama?q=1234567890&keyword=iphone;424;0;0
+1,73862E+12;93;search_large_response;200;OK;Thread Group 1-1;text;true;;85906;813;1;1;https://www.n11.com/arama?q=bilgisayar;64;0;0

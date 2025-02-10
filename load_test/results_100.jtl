@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1739113076528,4202,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394128,5584,1,1,null,0,62,911
+1739113076579,1016,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73666,558,1,1,https://www.n11.com/arama?q=telefon,965,0,911
+1739113077601,1691,search_long_query,200,OK,Thread Group 1-1,text,true,,66513,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,1648,0,0
+1739113079293,142,search_empty_query,200,OK,Thread Group 1-1,text,true,,68038,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,48,0,0
+1739113079293,48,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,48,0,0
+1739113079343,92,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67143,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,50,0,0
+1739113079436,792,search_special_characters,200,OK,Thread Group 1-1,text,true,,51927,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,781,0,0
+1739113080230,443,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49154,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,410,0,0
+1739113080674,118,search_large_response,200,OK,Thread Group 1-1,text,true,,84830,813,1,1,https://www.n11.com/arama?q=bilgisayar,52,0,0
+1739113080794,2362,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394444,5836,1,1,null,0,5,0
+1739113080794,78,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73721,810,1,1,https://www.n11.com/arama?q=telefon,45,0,0
+1739113080873,1362,search_long_query,200,OK,Thread Group 1-1,text,true,,66725,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,1338,0,0
+1739113082235,136,search_empty_query,200,OK,Thread Group 1-1,text,true,,68920,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113082235,56,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,909,803,1,1,https://www.n11.com/arama?q=,56,0,0
+1739113082291,80,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,75,0,0
+1739113082372,405,search_special_characters,200,OK,Thread Group 1-1,text,true,,51142,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,388,0,0
+1739113082778,266,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49118,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,235,0,0
+1739113083045,115,search_large_response,200,OK,Thread Group 1-1,text,true,,84818,813,1,1,https://www.n11.com/arama?q=bilgisayar,74,0,0
+1739113083161,4597,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394323,5836,1,1,null,0,2,0
+1739113083161,3460,search_common_keyword,200,OK,Thread Group 1-1,text,true,,72977,810,1,1,https://www.n11.com/arama?q=telefon,3408,0,0
+1739113086622,113,search_long_query,200,OK,Thread Group 1-1,text,true,,66718,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,89,0,0
+1739113086736,133,search_empty_query,200,OK,Thread Group 1-1,text,true,,68902,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,43,0,0
+1739113086736,43,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,43,0,0
+1739113086779,90,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,65,0,0
+1739113086869,567,search_special_characters,200,OK,Thread Group 1-1,text,true,,51259,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,532,0,0
+1739113087437,218,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49234,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,200,0,0
+1739113087655,106,search_large_response,200,OK,Thread Group 1-1,text,true,,85233,813,1,1,https://www.n11.com/arama?q=bilgisayar,80,0,0
+1739113087762,1113,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395344,5836,1,1,null,0,2,0
+1739113087762,100,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73167,810,1,1,https://www.n11.com/arama?q=telefon,64,0,0
+1739113087863,80,search_long_query,200,OK,Thread Group 1-1,text,true,,66723,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,53,0,0
+1739113087943,112,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,50,0,0
+1739113087943,50,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,50,0,0
+1739113087993,62,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113088055,413,search_special_characters,200,OK,Thread Group 1-1,text,true,,51907,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,394,0,0
+1739113088469,291,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49175,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,289,0,0
+1739113088760,117,search_large_response,200,OK,Thread Group 1-1,text,true,,85466,813,1,1,https://www.n11.com/arama?q=bilgisayar,62,0,0
+1739113088878,989,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395244,5836,1,1,null,0,4,0
+1739113088878,110,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,108,0,0
+1739113088989,113,search_long_query,200,OK,Thread Group 1-1,text,true,,68207,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,110,0,0
+1739113089103,127,search_empty_query,200,OK,Thread Group 1-1,text,true,,68034,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,58,0,0
+1739113089103,58,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,58,0,0
+1739113089162,68,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67139,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113089230,337,search_special_characters,200,OK,Thread Group 1-1,text,true,,51208,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,312,0,0
+1739113089568,203,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49184,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,175,0,0
+1739113089772,99,search_large_response,200,OK,Thread Group 1-1,text,true,,85446,813,1,1,https://www.n11.com/arama?q=bilgisayar,69,0,0
+1739113089872,988,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,393647,5836,1,1,null,0,5,0
+1739113089872,82,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73170,810,1,1,https://www.n11.com/arama?q=telefon,62,0,0
+1739113089955,75,search_long_query,200,OK,Thread Group 1-1,text,true,,66713,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,59,0,0
+1739113090031,145,search_empty_query,200,OK,Thread Group 1-1,text,true,,68033,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,45,0,0
+1739113090031,45,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,45,0,0
+1739113090077,99,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67138,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,49,0,0
+1739113090176,383,search_special_characters,200,OK,Thread Group 1-1,text,true,,51301,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,370,0,0
+1739113090560,201,search_numeric_query,200,OK,Thread Group 1-1,text,true,,48921,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,184,0,0
+1739113090762,102,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,68,0,0
+1739113090865,1121,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396656,5836,1,1,null,0,2,0
+1739113090866,79,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73881,810,1,1,https://www.n11.com/arama?q=telefon,46,0,0
+1739113090946,122,search_long_query,200,OK,Thread Group 1-1,text,true,,67496,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,57,0,0
+1739113091068,170,search_empty_query,200,OK,Thread Group 1-1,text,true,,68900,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,54,0,0
+1739113091068,54,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,54,0,0
+1739113091122,116,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68006,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,61,0,0
+1739113091238,439,search_special_characters,200,OK,Thread Group 1-1,text,true,,51409,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,375,0,0
+1739113091676,219,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49143,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,188,0,0
+1739113091895,92,search_large_response,200,OK,Thread Group 1-1,text,true,,85827,813,1,1,https://www.n11.com/arama?q=bilgisayar,50,0,0
+1739113091987,1006,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394870,5836,1,1,null,0,5,0
+1739113091989,99,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73266,810,1,1,https://www.n11.com/arama?q=telefon,48,0,0
+1739113092089,74,search_long_query,200,OK,Thread Group 1-1,text,true,,66777,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,54,0,0
+1739113092163,144,search_empty_query,200,OK,Thread Group 1-1,text,true,,68608,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,65,0,0
+1739113092163,65,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,65,0,0
+1739113092228,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67713,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,54,0,0
+1739113092308,356,search_special_characters,200,OK,Thread Group 1-1,text,true,,51560,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,352,0,0
+1739113092665,212,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49191,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,194,0,0
+1739113092877,121,search_large_response,200,OK,Thread Group 1-1,text,true,,85468,813,1,1,https://www.n11.com/arama?q=bilgisayar,69,0,0
+1739113092999,995,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395732,5836,1,1,null,0,6,0
+1739113093000,91,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73426,810,1,1,https://www.n11.com/arama?q=telefon,63,0,0
+1739113093091,91,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,59,0,0
+1739113093183,118,search_empty_query,200,OK,Thread Group 1-1,text,true,,68705,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,43,0,0
+1739113093183,43,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,43,0,0
+1739113093226,75,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67810,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113093302,391,search_special_characters,200,OK,Thread Group 1-1,text,true,,51390,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,373,0,0
+1739113093694,225,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49167,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,189,0,0
+1739113093920,79,search_large_response,200,OK,Thread Group 1-1,text,true,,85507,813,1,1,https://www.n11.com/arama?q=bilgisayar,47,0,0
+1739113094001,1033,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395804,5836,1,1,null,0,7,0
+1739113094002,93,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73432,810,1,1,https://www.n11.com/arama?q=telefon,64,0,0
+1739113094096,89,search_long_query,200,OK,Thread Group 1-1,text,true,,68206,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,51,0,0
+1739113094186,128,search_empty_query,200,OK,Thread Group 1-1,text,true,,68905,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113094186,47,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,47,0,0
+1739113094233,81,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,63,0,0
+1739113094315,399,search_special_characters,200,OK,Thread Group 1-1,text,true,,51331,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,334,0,0
+1739113094716,211,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49128,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,187,0,0
+1739113094927,113,search_large_response,200,OK,Thread Group 1-1,text,true,,84802,813,1,1,https://www.n11.com/arama?q=bilgisayar,66,0,0
+1739113095041,1582,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396125,5836,1,1,null,0,6,0
+1739113095042,127,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73168,810,1,1,https://www.n11.com/arama?q=telefon,104,0,0
+1739113095169,87,search_long_query,200,OK,Thread Group 1-1,text,true,,67533,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,64,0,0
+1739113095257,158,search_empty_query,200,OK,Thread Group 1-1,text,true,,68903,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,50,0,0
+1739113095257,50,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,50,0,0
+1739113095307,108,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68008,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,79,0,0
+1739113095416,489,search_special_characters,200,OK,Thread Group 1-1,text,true,,51890,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,418,0,0
+1739113095906,459,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49223,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,321,0,0
+1739113096367,262,search_large_response,200,OK,Thread Group 1-1,text,true,,85408,813,1,1,https://www.n11.com/arama?q=bilgisayar,92,0,0
+1739113096631,1332,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395718,5836,1,1,null,0,7,0
+1739113096632,211,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73431,810,1,1,https://www.n11.com/arama?q=telefon,111,0,0
+1739113096844,135,search_long_query,200,OK,Thread Group 1-1,text,true,,67535,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,71,0,0
+1739113096980,193,search_empty_query,200,OK,Thread Group 1-1,text,true,,68905,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113096980,56,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,892,803,1,1,https://www.n11.com/arama?q=,56,0,0
+1739113097037,136,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68013,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,67,0,0
+1739113097174,433,search_special_characters,200,OK,Thread Group 1-1,text,true,,51362,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,393,0,0
+1739113097608,219,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49023,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,180,0,0
+1739113097828,141,search_large_response,200,OK,Thread Group 1-1,text,true,,85462,813,1,1,https://www.n11.com/arama?q=bilgisayar,71,0,0
+1739113097970,1079,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395524,5836,1,1,null,0,4,0
+1739113097971,113,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73179,810,1,1,https://www.n11.com/arama?q=telefon,68,0,0
+1739113098085,120,search_long_query,200,OK,Thread Group 1-1,text,true,,67535,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,79,0,0
+1739113098206,163,search_empty_query,200,OK,Thread Group 1-1,text,true,,68905,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,44,0,0
+1739113098206,44,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,44,0,0
+1739113098251,118,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,73,0,0
+1739113098369,344,search_special_characters,200,OK,Thread Group 1-1,text,true,,51207,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,319,0,0
+1739113098714,203,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49196,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,178,0,0
+1739113098917,136,search_large_response,200,OK,Thread Group 1-1,text,true,,85502,813,1,1,https://www.n11.com/arama?q=bilgisayar,84,0,0
+1739113099053,1065,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395356,5836,1,1,null,0,5,0
+1739113099054,100,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73426,810,1,1,https://www.n11.com/arama?q=telefon,54,0,0
+1739113099155,102,search_long_query,200,OK,Thread Group 1-1,text,true,,67535,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,68,0,0
+1739113099257,148,search_empty_query,200,OK,Thread Group 1-1,text,true,,68905,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,42,0,0
+1739113099257,42,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,42,0,0
+1739113099299,106,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,58,0,0
+1739113099406,379,search_special_characters,200,OK,Thread Group 1-1,text,true,,51532,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,353,0,0
+1739113099786,234,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49155,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,196,0,0
+1739113100021,102,search_large_response,200,OK,Thread Group 1-1,text,true,,84803,813,1,1,https://www.n11.com/arama?q=bilgisayar,51,0,0
+1739113100123,1369,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395796,5836,1,1,null,0,6,0
+1739113100124,119,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73169,810,1,1,https://www.n11.com/arama?q=telefon,68,0,0
+1739113100244,88,search_long_query,200,OK,Thread Group 1-1,text,true,,67391,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,49,0,0
+1739113100333,172,search_empty_query,200,OK,Thread Group 1-1,text,true,,69275,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,54,0,0
+1739113100333,54,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1567,803,1,1,https://www.n11.com/arama?q=,54,0,0
+1739113100388,117,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67708,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,82,0,0
+1739113100506,603,search_special_characters,200,OK,Thread Group 1-1,text,true,,51251,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,571,0,0
+1739113101109,248,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49248,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,195,0,0
+1739113101358,139,search_large_response,200,OK,Thread Group 1-1,text,true,,85462,813,1,1,https://www.n11.com/arama?q=bilgisayar,103,0,0
+1739113101498,1144,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395285,5836,1,1,null,0,5,0
+1739113101498,146,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73411,810,1,1,https://www.n11.com/arama?q=telefon,144,0,0
+1739113101645,141,search_long_query,200,OK,Thread Group 1-1,text,true,,67535,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,104,0,0
+1739113101787,178,search_empty_query,200,OK,Thread Group 1-1,text,true,,68905,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,58,0,0
+1739113101787,58,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,58,0,0
+1739113101846,119,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,76,0,0
+1739113101966,339,search_special_characters,200,OK,Thread Group 1-1,text,true,,51444,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,293,0,0
+1739113102306,221,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49155,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,195,0,0
+1739113102528,119,search_large_response,200,OK,Thread Group 1-1,text,true,,84835,813,1,1,https://www.n11.com/arama?q=bilgisayar,69,0,0
+1739113102648,1219,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395451,5836,1,1,null,0,4,0
+1739113102649,96,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73883,810,1,1,https://www.n11.com/arama?q=telefon,55,0,0
+1739113102746,95,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,69,0,0
+1739113102842,129,search_empty_query,200,OK,Thread Group 1-1,text,true,,68048,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,44,0,0
+1739113102842,44,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,909,803,1,1,https://www.n11.com/arama?q=,44,0,0
+1739113102886,85,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67139,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,54,0,0
+1739113102971,520,search_special_characters,200,OK,Thread Group 1-1,text,true,,51384,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,485,0,0
+1739113103491,241,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49130,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,182,0,0
+1739113103733,138,search_large_response,200,OK,Thread Group 1-1,text,true,,85469,813,1,1,https://www.n11.com/arama?q=bilgisayar,68,0,0
+1739113103871,993,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396565,5836,1,1,null,0,6,0
+1739113103872,106,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73426,810,1,1,https://www.n11.com/arama?q=telefon,72,0,0
+1739113103979,102,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,78,0,0
+1739113104081,140,search_empty_query,200,OK,Thread Group 1-1,text,true,,68905,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,43,0,0
+1739113104081,43,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,43,0,0
+1739113104125,96,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113104222,324,search_special_characters,200,OK,Thread Group 1-1,text,true,,51380,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,304,0,0
+1739113104547,216,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49177,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,204,0,0
+1739113104764,105,search_large_response,200,OK,Thread Group 1-1,text,true,,86141,813,1,1,https://www.n11.com/arama?q=bilgisayar,70,0,0
+1739113104870,1136,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395268,5836,1,1,null,0,5,0
+1739113104871,200,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73426,810,1,1,https://www.n11.com/arama?q=telefon,159,0,0
+1739113105072,107,search_long_query,200,OK,Thread Group 1-1,text,true,,66556,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,60,0,0
+1739113105181,150,search_empty_query,200,OK,Thread Group 1-1,text,true,,68901,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113105181,56,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,56,0,0
+1739113105238,93,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68006,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,55,0,0
+1739113105332,361,search_special_characters,200,OK,Thread Group 1-1,text,true,,51412,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,345,0,0
+1739113105693,210,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49143,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,187,0,0
+1739113105903,108,search_large_response,200,OK,Thread Group 1-1,text,true,,85830,813,1,1,https://www.n11.com/arama?q=bilgisayar,63,0,0
+1739113106011,1001,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,397115,5836,1,1,null,0,4,0
+1739113106012,84,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73262,810,1,1,https://www.n11.com/arama?q=telefon,55,0,0
+1739113106097,97,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,73,0,0
+1739113106194,138,search_empty_query,200,OK,Thread Group 1-1,text,true,,68907,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,54,0,0
+1739113106194,54,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,54,0,0
+1739113106248,84,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,55,0,0
+1739113106333,413,search_special_characters,200,OK,Thread Group 1-1,text,true,,51954,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,387,0,0
+1739113106747,179,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49984,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,159,0,0
+1739113106926,90,search_large_response,200,OK,Thread Group 1-1,text,true,,85470,813,1,1,https://www.n11.com/arama?q=bilgisayar,55,0,0
+1739113107016,1005,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394247,5836,1,1,null,0,6,0
+1739113107017,96,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73425,810,1,1,https://www.n11.com/arama?q=telefon,76,0,0
+1739113107114,84,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,65,0,0
+1739113107198,135,search_empty_query,200,OK,Thread Group 1-1,text,true,,68037,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,54,0,0
+1739113107198,54,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,54,0,0
+1739113107253,80,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67143,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113107334,429,search_special_characters,200,OK,Thread Group 1-1,text,true,,51336,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,404,0,0
+1739113107764,169,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49082,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,151,0,0
+1739113107934,92,search_large_response,200,OK,Thread Group 1-1,text,true,,84836,813,1,1,https://www.n11.com/arama?q=bilgisayar,58,0,0
+1739113108027,1029,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394722,5836,1,1,null,0,3,0
+1739113108027,123,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73156,810,1,1,https://www.n11.com/arama?q=telefon,121,0,0
+1739113108151,98,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,76,0,0
+1739113108250,134,search_empty_query,200,OK,Thread Group 1-1,text,true,,68899,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113108250,47,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,47,0,0
+1739113108297,87,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68004,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,62,0,0
+1739113108384,414,search_special_characters,200,OK,Thread Group 1-1,text,true,,50994,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,390,0,0
+1739113108799,155,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49078,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,129,0,0
+1739113108954,105,search_large_response,200,OK,Thread Group 1-1,text,true,,85064,813,1,1,https://www.n11.com/arama?q=bilgisayar,58,0,0
+1739113109060,1172,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395711,5836,1,1,null,0,4,0
+1739113109060,115,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73534,810,1,1,https://www.n11.com/arama?q=telefon,113,0,0
+1739113109175,109,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,72,0,0
+1739113109285,147,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,50,0,0
+1739113109285,50,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,50,0,0
+1739113109336,96,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68011,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,62,0,0
+1739113109433,402,search_special_characters,200,OK,Thread Group 1-1,text,true,,51055,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,360,0,0
+1739113109836,248,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49218,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,236,0,0
+1739113110085,151,search_large_response,200,OK,Thread Group 1-1,text,true,,85460,813,1,1,https://www.n11.com/arama?q=bilgisayar,71,0,0
+1739113110236,1253,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394494,5836,1,1,null,0,5,0
+1739113110238,116,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73529,810,1,1,https://www.n11.com/arama?q=telefon,97,0,0
+1739113110354,119,search_long_query,200,OK,Thread Group 1-1,text,true,,66725,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,68,0,0
+1739113110475,163,search_empty_query,200,OK,Thread Group 1-1,text,true,,68694,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,45,0,0
+1739113110475,45,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1567,803,1,1,https://www.n11.com/arama?q=,45,0,0
+1739113110521,117,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67127,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113110638,390,search_special_characters,200,OK,Thread Group 1-1,text,true,,51276,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,365,0,0
+1739113111029,347,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49176,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,309,0,0
+1739113111376,118,search_large_response,200,OK,Thread Group 1-1,text,true,,85094,813,1,1,https://www.n11.com/arama?q=bilgisayar,68,0,0
+1739113111495,1184,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394614,5836,1,1,null,0,4,0
+1739113111495,133,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,93,0,0
+1739113111628,100,search_long_query,200,OK,Thread Group 1-1,text,true,,66720,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,62,0,0
+1739113111729,185,search_empty_query,200,OK,Thread Group 1-1,text,true,,68617,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,57,0,0
+1739113111729,57,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,57,0,0
+1739113111787,127,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67723,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,99,0,0
+1739113111914,411,search_special_characters,200,OK,Thread Group 1-1,text,true,,51437,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,382,0,0
+1739113112326,250,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49872,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,225,0,0
+1739113112577,105,search_large_response,200,OK,Thread Group 1-1,text,true,,84803,813,1,1,https://www.n11.com/arama?q=bilgisayar,65,0,0
+1739113112683,1040,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394470,5836,1,1,null,0,1,0
+1739113112683,104,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73268,810,1,1,https://www.n11.com/arama?q=telefon,67,0,0
+1739113112787,86,search_long_query,200,OK,Thread Group 1-1,text,true,,66720,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,63,0,0
+1739113112873,176,search_empty_query,200,OK,Thread Group 1-1,text,true,,68902,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,65,0,0
+1739113112873,65,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,65,0,0
+1739113112938,111,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,87,0,0
+1739113113049,331,search_special_characters,200,OK,Thread Group 1-1,text,true,,50899,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,309,0,0
+1739113113380,204,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49179,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,179,0,0
+1739113113585,139,search_large_response,200,OK,Thread Group 1-1,text,true,,85502,813,1,1,https://www.n11.com/arama?q=bilgisayar,73,0,0
+1739113113725,1177,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396497,5836,1,1,null,0,3,0
+1739113113725,135,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73432,810,1,1,https://www.n11.com/arama?q=telefon,123,0,0
+1739113113860,145,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,98,0,0
+1739113114006,158,search_empty_query,200,OK,Thread Group 1-1,text,true,,68903,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,43,0,0
+1739113114006,43,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,43,0,0
+1739113114049,115,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68009,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,70,0,0
+1739113114165,439,search_special_characters,200,OK,Thread Group 1-1,text,true,,52083,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,412,0,0
+1739113114605,186,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49060,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,160,0,0
+1739113114791,114,search_large_response,200,OK,Thread Group 1-1,text,true,,85481,813,1,1,https://www.n11.com/arama?q=bilgisayar,74,0,0
+1739113114906,1022,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395360,5836,1,1,null,0,4,0
+1739113114906,106,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73425,810,1,1,https://www.n11.com/arama?q=telefon,71,0,0
+1739113115012,119,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,64,0,0
+1739113115132,165,search_empty_query,200,OK,Thread Group 1-1,text,true,,68903,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,50,0,0
+1739113115132,50,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,50,0,0
+1739113115183,114,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68008,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,84,0,0
+1739113115299,326,search_special_characters,200,OK,Thread Group 1-1,text,true,,51274,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,298,0,0
+1739113115626,187,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49127,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,163,0,0
+1739113115813,119,search_large_response,200,OK,Thread Group 1-1,text,true,,85100,813,1,1,https://www.n11.com/arama?q=bilgisayar,61,0,0
+1739113115932,1041,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395694,5836,1,1,null,0,5,0
+1739113115933,120,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73529,810,1,1,https://www.n11.com/arama?q=telefon,119,0,0
+1739113116054,94,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,72,0,0
+1739113116148,136,search_empty_query,200,OK,Thread Group 1-1,text,true,,68037,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,46,0,0
+1739113116148,46,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,46,0,0
+1739113116195,89,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67143,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113116285,385,search_special_characters,200,OK,Thread Group 1-1,text,true,,51229,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,366,0,0
+1739113116672,202,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49908,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,182,0,0
+1739113116875,104,search_large_response,200,OK,Thread Group 1-1,text,true,,85453,813,1,1,https://www.n11.com/arama?q=bilgisayar,80,0,0
+1739113116979,1144,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395130,5836,1,1,null,0,6,0
+1739113116980,113,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73426,810,1,1,https://www.n11.com/arama?q=telefon,69,0,0
+1739113117094,99,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,69,0,0
+1739113117194,176,search_empty_query,200,OK,Thread Group 1-1,text,true,,68900,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,58,0,0
+1739113117194,58,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,58,0,0
+1739113117252,118,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68006,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,55,0,0
+1739113117371,418,search_special_characters,200,OK,Thread Group 1-1,text,true,,51223,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,380,0,0
+1739113117789,225,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49202,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,195,0,0
+1739113118015,113,search_large_response,200,OK,Thread Group 1-1,text,true,,84841,813,1,1,https://www.n11.com/arama?q=bilgisayar,62,0,0
+1739113118129,1068,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,393945,5836,1,1,null,0,6,0
+1739113118130,98,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,59,0,0
+1739113118229,78,search_long_query,200,OK,Thread Group 1-1,text,true,,66720,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,49,0,0
+1739113118308,130,search_empty_query,200,OK,Thread Group 1-1,text,true,,68092,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113118308,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113118350,88,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67197,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113118439,393,search_special_characters,200,OK,Thread Group 1-1,text,true,,51286,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,373,0,0
+1739113118833,264,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49174,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,243,0,0
+1739113119098,105,search_large_response,200,OK,Thread Group 1-1,text,true,,85508,813,1,1,https://www.n11.com/arama?q=bilgisayar,70,0,0
+1739113119203,1055,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396529,5836,1,1,null,0,4,0
+1739113119203,91,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73268,810,1,1,https://www.n11.com/arama?q=telefon,65,0,0
+1739113119294,84,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,51,0,0
+1739113119379,156,search_empty_query,200,OK,Thread Group 1-1,text,true,,69593,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,53,0,0
+1739113119379,53,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1586,803,1,1,https://www.n11.com/arama?q=,53,0,0
+1739113119432,103,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,74,0,0
+1739113119536,388,search_special_characters,200,OK,Thread Group 1-1,text,true,,51932,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,371,0,0
+1739113119925,242,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49134,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,240,0,0
+1739113120168,94,search_large_response,200,OK,Thread Group 1-1,text,true,,85064,813,1,1,https://www.n11.com/arama?q=bilgisayar,60,0,0
+1739113120263,972,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395954,5836,1,1,null,0,7,0
+1739113120266,113,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73170,810,1,1,https://www.n11.com/arama?q=telefon,97,0,0
+1739113120380,108,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,93,0,0
+1739113120489,130,search_empty_query,200,OK,Thread Group 1-1,text,true,,68606,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,44,0,0
+1739113120489,44,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,892,803,1,1,https://www.n11.com/arama?q=,44,0,0
+1739113120534,85,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67714,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113120620,315,search_special_characters,200,OK,Thread Group 1-1,text,true,,52014,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,292,0,0
+1739113120936,204,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49129,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,178,0,0
+1739113121140,102,search_large_response,200,OK,Thread Group 1-1,text,true,,85504,813,1,1,https://www.n11.com/arama?q=bilgisayar,69,0,0
+1739113121242,1102,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395746,5836,1,1,null,0,5,0
+1739113121242,97,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73879,810,1,1,https://www.n11.com/arama?q=telefon,66,0,0
+1739113121340,123,search_long_query,200,OK,Thread Group 1-1,text,true,,67540,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,73,0,0
+1739113121464,160,search_empty_query,200,OK,Thread Group 1-1,text,true,,68908,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,57,0,0
+1739113121464,57,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,57,0,0
+1739113121521,103,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68013,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,62,0,0
+1739113121625,385,search_special_characters,200,OK,Thread Group 1-1,text,true,,51459,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,364,0,0
+1739113122011,232,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49156,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,201,0,0
+1739113122244,105,search_large_response,200,OK,Thread Group 1-1,text,true,,84804,813,1,1,https://www.n11.com/arama?q=bilgisayar,47,0,0
+1739113122349,1030,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396585,5836,1,1,null,0,7,0
+1739113122351,104,search_common_keyword,200,OK,Thread Group 1-1,text,true,,74226,810,1,1,https://www.n11.com/arama?q=telefon,52,0,0
+1739113122455,91,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,55,0,0
+1739113122547,140,search_empty_query,200,OK,Thread Group 1-1,text,true,,68901,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,44,0,0
+1739113122547,44,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,44,0,0
+1739113122592,95,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,68,0,0
+1739113122687,379,search_special_characters,200,OK,Thread Group 1-1,text,true,,51902,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,344,0,0
+1739113123068,216,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49179,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,200,0,0
+1739113123285,100,search_large_response,200,OK,Thread Group 1-1,text,true,,84841,813,1,1,https://www.n11.com/arama?q=bilgisayar,67,0,0
+1739113123386,1032,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396417,5836,1,1,null,0,5,0
+1739113123387,89,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73433,810,1,1,https://www.n11.com/arama?q=telefon,63,0,0
+1739113123476,102,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,70,0,0
+1739113123579,139,search_empty_query,200,OK,Thread Group 1-1,text,true,,68909,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113123579,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113123620,98,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68014,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,73,0,0
+1739113123719,314,search_special_characters,200,OK,Thread Group 1-1,text,true,,51229,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,289,0,0
+1739113124034,259,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49838,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,227,0,0
+1739113124294,129,search_large_response,200,OK,Thread Group 1-1,text,true,,85469,813,1,1,https://www.n11.com/arama?q=bilgisayar,61,0,0
+1739113124424,1024,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395412,5836,1,1,null,0,4,0
+1739113124425,95,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73884,810,1,1,https://www.n11.com/arama?q=telefon,59,0,0
+1739113124521,118,search_long_query,200,OK,Thread Group 1-1,text,true,,66725,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,91,0,0
+1739113124639,186,search_empty_query,200,OK,Thread Group 1-1,text,true,,68903,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,49,0,0
+1739113124639,49,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,49,0,0
+1739113124688,137,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68009,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,106,0,0
+1739113124826,346,search_special_characters,200,OK,Thread Group 1-1,text,true,,51319,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,294,0,0
+1739113125173,154,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49112,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,130,0,0
+1739113125327,125,search_large_response,200,OK,Thread Group 1-1,text,true,,85469,813,1,1,https://www.n11.com/arama?q=bilgisayar,81,0,0
+1739113125452,999,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396124,5836,1,1,null,0,4,0
+1739113125453,106,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73884,810,1,1,https://www.n11.com/arama?q=telefon,63,0,0
+1739113125559,101,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,67,0,0
+1739113125661,125,search_empty_query,200,OK,Thread Group 1-1,text,true,,68596,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113125661,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113125702,84,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67701,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,55,0,0
+1739113125786,357,search_special_characters,200,OK,Thread Group 1-1,text,true,,51226,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,331,0,0
+1739113126144,198,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49818,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,162,0,0
+1739113126343,112,search_large_response,200,OK,Thread Group 1-1,text,true,,85064,813,1,1,https://www.n11.com/arama?q=bilgisayar,51,0,0
+1739113126455,969,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395746,5836,1,1,null,0,3,0
+1739113126456,93,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73672,810,1,1,https://www.n11.com/arama?q=telefon,60,0,0
+1739113126549,104,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,83,0,0
+1739113126653,136,search_empty_query,200,OK,Thread Group 1-1,text,true,,68618,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113126653,51,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,51,0,0
+1739113126704,85,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67724,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,53,0,0
+1739113126790,379,search_special_characters,200,OK,Thread Group 1-1,text,true,,51385,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,353,0,0
+1739113127169,161,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49065,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,138,0,0
+1739113127331,96,search_large_response,200,OK,Thread Group 1-1,text,true,,85468,813,1,1,https://www.n11.com/arama?q=bilgisayar,61,0,0
+1739113127427,1097,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395663,5836,1,1,null,0,5,0
+1739113127427,99,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73268,810,1,1,https://www.n11.com/arama?q=telefon,64,0,0
+1739113127527,94,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,67,0,0
+1739113127622,180,search_empty_query,200,OK,Thread Group 1-1,text,true,,68907,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,64,0,0
+1739113127622,64,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,64,0,0
+1739113127687,115,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113127803,411,search_special_characters,200,OK,Thread Group 1-1,text,true,,51326,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,379,0,0
+1739113128215,209,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49115,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,189,0,0
+1739113128425,104,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,60,0,0
+1739113128530,912,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396338,5836,1,1,null,0,4,0
+1739113128530,83,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73884,810,1,1,https://www.n11.com/arama?q=telefon,50,0,0
+1739113128614,102,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,82,0,0
+1739113128716,147,search_empty_query,200,OK,Thread Group 1-1,text,true,,68881,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,57,0,0
+1739113128716,57,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,57,0,0
+1739113128773,90,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67987,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,76,0,0
+1739113128863,276,search_special_characters,200,OK,Thread Group 1-1,text,true,,51372,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,248,0,0
+1739113129140,192,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49154,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,174,0,0
+1739113129333,112,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,69,0,0
+1739113129446,1065,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396876,5836,1,1,null,0,5,0
+1739113129447,82,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,55,0,0
+1739113129529,102,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,75,0,0
+1739113129632,130,search_empty_query,200,OK,Thread Group 1-1,text,true,,69599,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,42,0,0
+1739113129632,42,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,42,0,0
+1739113129674,88,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68704,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,66,0,0
+1739113129763,429,search_special_characters,200,OK,Thread Group 1-1,text,true,,51225,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,424,0,0
+1739113130193,211,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49149,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,189,0,0
+1739113130404,111,search_large_response,200,OK,Thread Group 1-1,text,true,,86200,813,1,1,https://www.n11.com/arama?q=bilgisayar,70,0,0
+1739113130516,988,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395545,5836,1,1,null,0,3,0
+1739113130516,86,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73179,810,1,1,https://www.n11.com/arama?q=telefon,56,0,0
+1739113130602,92,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,67,0,0
+1739113130694,135,search_empty_query,200,OK,Thread Group 1-1,text,true,,68921,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113130694,51,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,909,803,1,1,https://www.n11.com/arama?q=,51,0,0
+1739113130745,84,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,55,0,0
+1739113130830,371,search_special_characters,200,OK,Thread Group 1-1,text,true,,51308,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,349,0,0
+1739113131202,208,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49130,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,191,0,0
+1739113131411,96,search_large_response,200,OK,Thread Group 1-1,text,true,,85468,813,1,1,https://www.n11.com/arama?q=bilgisayar,73,0,0
+1739113131507,1029,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396473,5836,1,1,null,0,3,0
+1739113131507,103,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73879,810,1,1,https://www.n11.com/arama?q=telefon,58,0,0
+1739113131611,108,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,106,0,0
+1739113131719,159,search_empty_query,200,OK,Thread Group 1-1,text,true,,68902,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,67,0,0
+1739113131719,67,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,67,0,0
+1739113131786,92,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,70,0,0
+1739113131879,357,search_special_characters,200,OK,Thread Group 1-1,text,true,,51634,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,328,0,0
+1739113132236,214,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49058,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,195,0,0
+1739113132451,88,search_large_response,200,OK,Thread Group 1-1,text,true,,85464,813,1,1,https://www.n11.com/arama?q=bilgisayar,54,0,0
+1739113132539,1033,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394615,5836,1,1,null,0,3,0
+1739113132540,102,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,74,0,0
+1739113132642,95,search_long_query,200,OK,Thread Group 1-1,text,true,,67515,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,71,0,0
+1739113132737,118,search_empty_query,200,OK,Thread Group 1-1,text,true,,68609,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,39,0,0
+1739113132737,39,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,39,0,0
+1739113132776,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67714,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113132855,402,search_special_characters,200,OK,Thread Group 1-1,text,true,,51297,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,385,0,0
+1739113133258,215,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49188,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,201,0,0
+1739113133474,101,search_large_response,200,OK,Thread Group 1-1,text,true,,84841,813,1,1,https://www.n11.com/arama?q=bilgisayar,54,0,0
+1739113133576,1098,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394262,5836,1,1,null,0,5,0
+1739113133576,90,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73268,810,1,1,https://www.n11.com/arama?q=telefon,56,0,0
+1739113133667,125,search_long_query,200,OK,Thread Group 1-1,text,true,,66720,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,55,0,0
+1739113133793,167,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,45,0,0
+1739113133793,45,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,45,0,0
+1739113133838,122,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,82,0,0
+1739113133961,408,search_special_characters,200,OK,Thread Group 1-1,text,true,,51114,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,375,0,0
+1739113134370,206,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49154,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,185,0,0
+1739113134577,102,search_large_response,200,OK,Thread Group 1-1,text,true,,85100,813,1,1,https://www.n11.com/arama?q=bilgisayar,54,0,0
+1739113134679,1045,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396452,5836,1,1,null,0,5,0
+1739113134680,94,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73884,810,1,1,https://www.n11.com/arama?q=telefon,54,0,0
+1739113134775,111,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,61,0,0
+1739113134886,139,search_empty_query,200,OK,Thread Group 1-1,text,true,,68908,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,40,0,0
+1739113134886,40,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,40,0,0
+1739113134926,99,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68013,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,67,0,0
+1739113135026,377,search_special_characters,200,OK,Thread Group 1-1,text,true,,51415,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,352,0,0
+1739113135404,218,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49199,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,193,0,0
+1739113135623,106,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,65,0,0
+1739113135729,1119,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396068,5836,1,1,null,0,1,54
+1739113135729,149,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73431,810,1,1,https://www.n11.com/arama?q=telefon,115,0,0
+1739113135879,101,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,69,0,0
+1739113135980,159,search_empty_query,200,OK,Thread Group 1-1,text,true,,68902,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113135980,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113136021,118,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,92,0,0
+1739113136139,339,search_special_characters,200,OK,Thread Group 1-1,text,true,,51733,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,304,0,0
+1739113136478,212,search_numeric_query,200,OK,Thread Group 1-1,text,true,,48997,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,189,0,0
+1739113136690,159,search_large_response,200,OK,Thread Group 1-1,text,true,,85469,813,1,1,https://www.n11.com/arama?q=bilgisayar,99,0,54
+1739113136849,1019,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395324,5836,1,1,null,0,2,0
+1739113136850,115,search_common_keyword,200,OK,Thread Group 1-1,text,true,,74220,810,1,1,https://www.n11.com/arama?q=telefon,47,0,0
+1739113136965,92,search_long_query,200,OK,Thread Group 1-1,text,true,,66720,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,48,0,0
+1739113137057,173,search_empty_query,200,OK,Thread Group 1-1,text,true,,68903,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113137057,47,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,47,0,0
+1739113137104,126,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68009,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,87,0,0
+1739113137230,317,search_special_characters,200,OK,Thread Group 1-1,text,true,,51427,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,282,0,0
+1739113137547,216,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49218,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,185,0,0
+1739113137764,106,search_large_response,200,OK,Thread Group 1-1,text,true,,84836,813,1,1,https://www.n11.com/arama?q=bilgisayar,51,0,0
+1739113137870,1150,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394806,5836,1,1,null,0,2,0
+1739113137871,68,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73427,810,1,1,https://www.n11.com/arama?q=telefon,49,0,0
+1739113137939,102,search_long_query,200,OK,Thread Group 1-1,text,true,,66555,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,66,0,0
+1739113138041,109,search_empty_query,200,OK,Thread Group 1-1,text,true,,68904,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,38,0,0
+1739113138041,38,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,38,0,0
+1739113138079,71,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68009,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113138150,324,search_special_characters,200,OK,Thread Group 1-1,text,true,,51396,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,299,0,0
+1739113138474,188,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49056,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,150,0,0
+1739113138663,359,search_large_response,200,OK,Thread Group 1-1,text,true,,85468,813,1,1,https://www.n11.com/arama?q=bilgisayar,48,0,0
+1739113139022,982,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395525,5836,1,1,null,0,1,0
+1739113139023,94,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,56,0,0
+1739113139117,99,search_long_query,200,OK,Thread Group 1-1,text,true,,67534,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,57,0,0
+1739113139216,147,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113139216,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113139257,106,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,60,0,0
+1739113139363,358,search_special_characters,200,OK,Thread Group 1-1,text,true,,51345,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,342,0,0
+1739113139721,200,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49112,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,173,0,0
+1739113139921,84,search_large_response,200,OK,Thread Group 1-1,text,true,,85463,813,1,1,https://www.n11.com/arama?q=bilgisayar,57,0,0
+1739113140005,993,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395349,5836,1,1,null,0,4,0
+1739113140006,101,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73432,810,1,1,https://www.n11.com/arama?q=telefon,100,0,0
+1739113140107,76,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,60,0,0
+1739113140184,117,search_empty_query,200,OK,Thread Group 1-1,text,true,,68902,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,44,0,0
+1739113140184,44,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,44,0,0
+1739113140228,73,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,58,0,0
+1739113140302,370,search_special_characters,200,OK,Thread Group 1-1,text,true,,51227,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,342,0,0
+1739113140672,207,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49185,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,191,0,0
+1739113140879,122,search_large_response,200,OK,Thread Group 1-1,text,true,,85064,813,1,1,https://www.n11.com/arama?q=bilgisayar,47,0,0
+1739113141002,988,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395677,5836,1,1,null,0,3,0
+1739113141002,88,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73427,810,1,1,https://www.n11.com/arama?q=telefon,49,0,0
+1739113141090,79,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,56,0,0
+1739113141169,169,search_empty_query,200,OK,Thread Group 1-1,text,true,,68891,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,46,0,0
+1739113141169,46,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,46,0,0
+1739113141215,123,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67996,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,84,0,0
+1739113141339,367,search_special_characters,200,OK,Thread Group 1-1,text,true,,51265,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,343,0,0
+1739113141706,198,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49083,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,170,0,0
+1739113141905,87,search_large_response,200,OK,Thread Group 1-1,text,true,,85472,813,1,1,https://www.n11.com/arama?q=bilgisayar,55,0,0
+1739113141992,961,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395575,5836,1,1,null,0,4,0
+1739113141993,74,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73394,810,1,1,https://www.n11.com/arama?q=telefon,54,0,0
+1739113142068,81,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,64,0,0
+1739113142150,107,search_empty_query,200,OK,Thread Group 1-1,text,true,,68039,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,38,0,0
+1739113142150,38,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,38,0,0
+1739113142188,69,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67144,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,42,0,0
+1739113142257,378,search_special_characters,200,OK,Thread Group 1-1,text,true,,51303,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,346,0,0
+1739113142636,220,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49823,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,172,0,0
+1739113142856,101,search_large_response,200,OK,Thread Group 1-1,text,true,,85478,813,1,1,https://www.n11.com/arama?q=bilgisayar,70,0,0
+1739113142957,940,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395211,5836,1,1,null,0,3,0
+1739113142957,96,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73879,810,1,1,https://www.n11.com/arama?q=telefon,59,0,0
+1739113143054,113,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,68,0,0
+1739113143168,120,search_empty_query,200,OK,Thread Group 1-1,text,true,,68614,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,34,0,0
+1739113143168,34,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,34,0,0
+1739113143203,85,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67719,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,59,0,0
+1739113143288,358,search_special_characters,200,OK,Thread Group 1-1,text,true,,51196,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,337,0,0
+1739113143646,169,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49145,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,150,0,0
+1739113143815,84,search_large_response,200,OK,Thread Group 1-1,text,true,,84841,813,1,1,https://www.n11.com/arama?q=bilgisayar,48,0,0
+1739113143900,927,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394806,5836,1,1,null,0,1,0
+1739113143901,86,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73166,810,1,1,https://www.n11.com/arama?q=telefon,52,0,0
+1739113143987,76,search_long_query,200,OK,Thread Group 1-1,text,true,,66562,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,58,0,0
+1739113144063,124,search_empty_query,200,OK,Thread Group 1-1,text,true,,68907,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113144063,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113144105,82,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,57,0,0
+1739113144187,336,search_special_characters,200,OK,Thread Group 1-1,text,true,,51464,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,317,0,0
+1739113144523,196,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49235,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,175,0,0
+1739113144719,109,search_large_response,200,OK,Thread Group 1-1,text,true,,85472,813,1,1,https://www.n11.com/arama?q=bilgisayar,54,0,0
+1739113144828,1003,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396122,5836,1,1,null,0,5,0
+1739113144829,84,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73172,810,1,1,https://www.n11.com/arama?q=telefon,54,0,0
+1739113144914,83,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,59,0,0
+1739113144998,118,search_empty_query,200,OK,Thread Group 1-1,text,true,,69593,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,42,0,0
+1739113144998,42,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1586,803,1,1,https://www.n11.com/arama?q=,42,0,0
+1739113145040,76,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,48,0,0
+1739113145117,426,search_special_characters,200,OK,Thread Group 1-1,text,true,,51375,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,366,0,0
+1739113145544,210,search_numeric_query,200,OK,Thread Group 1-1,text,true,,48934,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,176,0,0
+1739113145754,82,search_large_response,200,OK,Thread Group 1-1,text,true,,85510,813,1,1,https://www.n11.com/arama?q=bilgisayar,44,0,0
+1739113145837,1023,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396337,5836,1,1,null,0,1,0
+1739113145837,88,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73879,810,1,1,https://www.n11.com/arama?q=telefon,56,0,0
+1739113145925,84,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,62,0,0
+1739113146009,140,search_empty_query,200,OK,Thread Group 1-1,text,true,,68898,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,40,0,0
+1739113146009,40,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,40,0,0
+1739113146049,100,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68004,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,59,0,0
+1739113146149,399,search_special_characters,200,OK,Thread Group 1-1,text,true,,51380,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,363,0,0
+1739113146548,230,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49182,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,215,0,0
+1739113146779,82,search_large_response,200,OK,Thread Group 1-1,text,true,,85467,813,1,1,https://www.n11.com/arama?q=bilgisayar,45,0,0
+1739113146862,894,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396607,5836,1,1,null,0,2,0
+1739113146862,88,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73667,810,1,1,https://www.n11.com/arama?q=telefon,49,0,0
+1739113146950,90,search_long_query,200,OK,Thread Group 1-1,text,true,,66711,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,59,0,0
+1739113147040,129,search_empty_query,200,OK,Thread Group 1-1,text,true,,68893,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,33,0,0
+1739113147040,33,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,33,0,0
+1739113147073,96,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67998,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,79,0,0
+1739113147170,292,search_special_characters,200,OK,Thread Group 1-1,text,true,,52595,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,267,0,0
+1739113147462,194,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49237,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,171,0,0
+1739113147657,101,search_large_response,200,OK,Thread Group 1-1,text,true,,85504,813,1,1,https://www.n11.com/arama?q=bilgisayar,64,0,0
+1739113147758,1018,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396374,5836,1,1,null,0,3,0
+1739113147759,103,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73171,810,1,1,https://www.n11.com/arama?q=telefon,47,0,0
+1739113147862,88,search_long_query,200,OK,Thread Group 1-1,text,true,,67498,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,66,0,0
+1739113147951,119,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,34,0,0
+1739113147951,34,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,34,0,0
+1739113147985,85,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,48,0,0
+1739113148070,389,search_special_characters,200,OK,Thread Group 1-1,text,true,,51421,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,359,0,0
+1739113148460,195,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49202,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,161,0,0
+1739113148655,124,search_large_response,200,OK,Thread Group 1-1,text,true,,86176,813,1,1,https://www.n11.com/arama?q=bilgisayar,63,0,0
+1739113148780,945,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396895,5836,1,1,null,0,3,0
+1739113148780,95,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73879,810,1,1,https://www.n11.com/arama?q=telefon,51,0,0
+1739113148876,113,search_long_query,200,OK,Thread Group 1-1,text,true,,67515,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,58,0,0
+1739113148990,124,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,38,0,0
+1739113148990,38,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,38,0,0
+1739113149028,86,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,48,0,0
+1739113149114,296,search_special_characters,200,OK,Thread Group 1-1,text,true,,51897,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,265,0,0
+1739113149410,207,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49229,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,156,0,0
+1739113149618,110,search_large_response,200,OK,Thread Group 1-1,text,true,,85469,813,1,1,https://www.n11.com/arama?q=bilgisayar,55,0,0
+1739113149728,1123,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394453,5836,1,1,null,0,4,0
+1739113149729,99,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73432,810,1,1,https://www.n11.com/arama?q=telefon,55,0,0
+1739113149829,85,search_long_query,200,OK,Thread Group 1-1,text,true,,66715,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,59,0,0
+1739113149914,151,search_empty_query,200,OK,Thread Group 1-1,text,true,,68904,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,62,0,0
+1739113149914,62,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,62,0,0
+1739113149976,89,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68009,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113150065,363,search_special_characters,200,OK,Thread Group 1-1,text,true,,51246,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,334,0,0
+1739113150429,211,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49097,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,183,0,0
+1739113150640,214,search_large_response,200,OK,Thread Group 1-1,text,true,,85059,813,1,1,https://www.n11.com/arama?q=bilgisayar,85,0,0
+1739113150855,1076,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395665,5836,1,1,null,0,3,0
+1739113150855,93,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73167,810,1,1,https://www.n11.com/arama?q=telefon,56,0,0
+1739113150948,94,search_long_query,200,OK,Thread Group 1-1,text,true,,68210,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,58,0,0
+1739113151043,129,search_empty_query,200,OK,Thread Group 1-1,text,true,,68042,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,39,0,0
+1739113151043,39,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,39,0,0
+1739113151083,89,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67148,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113151173,402,search_special_characters,200,OK,Thread Group 1-1,text,true,,51690,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,381,0,0
+1739113151575,256,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49047,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,223,0,0
+1739113151832,102,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,49,0,0
+1739113151934,970,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396341,5836,1,1,null,0,5,0
+1739113151935,89,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73879,810,1,1,https://www.n11.com/arama?q=telefon,48,0,0
+1739113152025,80,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,47,0,0
+1739113152106,124,search_empty_query,200,OK,Thread Group 1-1,text,true,,68907,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,37,0,0
+1739113152106,37,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,37,0,0
+1739113152143,87,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113152230,377,search_special_characters,200,OK,Thread Group 1-1,text,true,,51382,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,350,0,0
+1739113152608,211,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49180,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,184,0,0
+1739113152820,89,search_large_response,200,OK,Thread Group 1-1,text,true,,85455,813,1,1,https://www.n11.com/arama?q=bilgisayar,48,0,0
+1739113152909,1002,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396315,5836,1,1,null,0,6,0
+1739113152910,75,search_common_keyword,200,OK,Thread Group 1-1,text,true,,74220,810,1,1,https://www.n11.com/arama?q=telefon,37,0,0
+1739113152986,84,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,45,0,0
+1739113153071,119,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,36,0,0
+1739113153071,36,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,36,0,0
+1739113153107,83,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113153191,417,search_special_characters,200,OK,Thread Group 1-1,text,true,,50989,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,383,0,0
+1739113153609,189,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49155,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,168,0,0
+1739113153798,118,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,59,0,0
+1739113153917,914,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395645,5836,1,1,null,0,4,0
+1739113153918,117,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73171,810,1,1,https://www.n11.com/arama?q=telefon,99,0,0
+1739113154035,95,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,61,0,0
+1739113154131,117,search_empty_query,200,OK,Thread Group 1-1,text,true,,68904,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,38,0,0
+1739113154131,38,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,38,0,0
+1739113154169,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68009,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113154249,300,search_special_characters,200,OK,Thread Group 1-1,text,true,,51400,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,278,0,0
+1739113154549,169,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49160,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,157,0,0
+1739113154719,116,search_large_response,200,OK,Thread Group 1-1,text,true,,85472,813,1,1,https://www.n11.com/arama?q=bilgisayar,68,0,0
+1739113154835,923,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394740,5836,1,1,null,0,1,0
+1739113154835,109,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73170,810,1,1,https://www.n11.com/arama?q=telefon,66,0,0
+1739113154944,82,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,53,0,0
+1739113155026,110,search_empty_query,200,OK,Thread Group 1-1,text,true,,68029,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,32,0,0
+1739113155026,32,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,32,0,0
+1739113155058,78,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67135,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,56,0,0
+1739113155136,331,search_special_characters,200,OK,Thread Group 1-1,text,true,,51364,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,308,0,0
+1739113155467,185,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49185,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,163,0,0
+1739113155653,106,search_large_response,200,OK,Thread Group 1-1,text,true,,85455,813,1,1,https://www.n11.com/arama?q=bilgisayar,64,0,0
+1739113155759,1048,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395787,5836,1,1,null,0,4,0
+1739113155760,90,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73166,810,1,1,https://www.n11.com/arama?q=telefon,57,0,0
+1739113155851,103,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,81,0,0
+1739113155954,113,search_empty_query,200,OK,Thread Group 1-1,text,true,,68903,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,38,0,0
+1739113155954,38,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,38,0,0
+1739113155992,75,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68009,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,46,0,0
+1739113156067,476,search_special_characters,200,OK,Thread Group 1-1,text,true,,51500,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,437,0,0
+1739113156544,175,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49171,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,155,0,0
+1739113156719,91,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,55,0,0
+1739113156811,978,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395309,5836,1,1,null,0,4,0
+1739113156812,72,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73171,810,1,1,https://www.n11.com/arama?q=telefon,45,0,0
+1739113156884,87,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,69,0,0
+1739113156972,111,search_empty_query,200,OK,Thread Group 1-1,text,true,,68608,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,38,0,0
+1739113156972,38,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,38,0,0
+1739113157010,73,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67714,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,49,0,0
+1739113157084,446,search_special_characters,200,OK,Thread Group 1-1,text,true,,51306,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,427,0,0
+1739113157531,181,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49178,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,162,0,0
+1739113157712,81,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,47,0,0
+1739113157793,967,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396001,5836,1,1,null,0,3,0
+1739113157793,105,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73425,810,1,1,https://www.n11.com/arama?q=telefon,56,0,0
+1739113157898,114,search_long_query,200,OK,Thread Group 1-1,text,true,,66720,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,80,0,0
+1739113158013,110,search_empty_query,200,OK,Thread Group 1-1,text,true,,69567,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,37,0,0
+1739113158013,37,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1567,803,1,1,https://www.n11.com/arama?q=,37,0,0
+1739113158050,73,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68000,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113158124,326,search_special_characters,200,OK,Thread Group 1-1,text,true,,51200,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,308,0,0
+1739113158450,215,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49989,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,171,0,0
+1739113158666,97,search_large_response,200,OK,Thread Group 1-1,text,true,,85100,813,1,1,https://www.n11.com/arama?q=bilgisayar,68,0,0
+1739113158764,965,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395710,5836,1,1,null,0,3,0
+1739113158765,71,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73268,810,1,1,https://www.n11.com/arama?q=telefon,55,0,0
+1739113158836,74,search_long_query,200,OK,Thread Group 1-1,text,true,,67515,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,50,0,0
+1739113158910,112,search_empty_query,200,OK,Thread Group 1-1,text,true,,69280,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,40,0,0
+1739113158910,40,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1566,803,1,1,https://www.n11.com/arama?q=,40,0,0
+1739113158950,72,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67714,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113159023,395,search_special_characters,200,OK,Thread Group 1-1,text,true,,51461,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,372,0,0
+1739113159418,223,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49159,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,196,0,0
+1739113159641,90,search_large_response,200,OK,Thread Group 1-1,text,true,,85027,813,1,1,https://www.n11.com/arama?q=bilgisayar,49,0,0
+1739113159732,1100,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395406,5836,1,1,null,0,2,0
+1739113159733,104,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73431,810,1,1,https://www.n11.com/arama?q=telefon,88,0,0
+1739113159837,88,search_long_query,200,OK,Thread Group 1-1,text,true,,67534,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,53,0,0
+1739113159926,132,search_empty_query,200,OK,Thread Group 1-1,text,true,,68613,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,53,0,0
+1739113159926,53,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,53,0,0
+1739113159979,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67719,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,46,0,0
+1739113160058,403,search_special_characters,200,OK,Thread Group 1-1,text,true,,51307,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,375,0,0
+1739113160461,268,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49043,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,232,0,0
+1739113160729,105,search_large_response,200,OK,Thread Group 1-1,text,true,,85478,813,1,1,https://www.n11.com/arama?q=bilgisayar,58,0,0
+1739113160834,1196,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395760,5836,1,1,null,0,2,0
+1739113160835,131,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73432,810,1,1,https://www.n11.com/arama?q=telefon,62,0,0
+1739113160966,115,search_long_query,200,OK,Thread Group 1-1,text,true,,67533,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,52,0,0
+1739113161081,132,search_empty_query,200,OK,Thread Group 1-1,text,true,,68901,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113161081,51,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,51,0,0
+1739113161132,81,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,46,0,0
+1739113161214,469,search_special_characters,200,OK,Thread Group 1-1,text,true,,51250,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,418,0,0
+1739113161683,203,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49180,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,183,0,0
+1739113161886,146,search_large_response,200,OK,Thread Group 1-1,text,true,,85464,813,1,1,https://www.n11.com/arama?q=bilgisayar,72,0,0
+1739113162033,976,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,397366,5836,1,1,null,0,5,0
+1739113162034,77,search_common_keyword,200,OK,Thread Group 1-1,text,true,,74225,810,1,1,https://www.n11.com/arama?q=telefon,40,0,0
+1739113162112,84,search_long_query,200,OK,Thread Group 1-1,text,true,,67533,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,55,0,0
+1739113162197,165,search_empty_query,200,OK,Thread Group 1-1,text,true,,69578,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,66,0,0
+1739113162197,66,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1566,803,1,1,https://www.n11.com/arama?q=,66,0,0
+1739113162263,99,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,59,0,0
+1739113162363,338,search_special_characters,200,OK,Thread Group 1-1,text,true,,51457,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,322,0,0
+1739113162701,213,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49119,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,195,0,0
+1739113162915,99,search_large_response,200,OK,Thread Group 1-1,text,true,,85454,813,1,1,https://www.n11.com/arama?q=bilgisayar,68,0,0
+1739113163014,1120,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394893,5836,1,1,null,0,4,0
+1739113163015,133,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73172,810,1,1,https://www.n11.com/arama?q=telefon,126,0,0
+1739113163149,106,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,60,0,0
+1739113163256,121,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113163256,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113163298,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,49,0,0
+1739113163377,459,search_special_characters,200,OK,Thread Group 1-1,text,true,,51435,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,438,0,0
+1739113163836,214,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49014,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,180,0,0
+1739113164051,87,search_large_response,200,OK,Thread Group 1-1,text,true,,84835,813,1,1,https://www.n11.com/arama?q=bilgisayar,58,0,0
+1739113164138,955,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395982,5836,1,1,null,0,2,0
+1739113164138,90,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73164,810,1,1,https://www.n11.com/arama?q=telefon,60,0,0
+1739113164229,130,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,72,0,0
+1739113164359,118,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,38,0,0
+1739113164359,38,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,38,0,0
+1739113164397,80,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113164477,351,search_special_characters,200,OK,Thread Group 1-1,text,true,,51710,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,324,0,0
+1739113164829,177,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49167,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,152,0,0
+1739113165006,89,search_large_response,200,OK,Thread Group 1-1,text,true,,85504,813,1,1,https://www.n11.com/arama?q=bilgisayar,61,0,0
+1739113165096,998,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395168,5836,1,1,null,0,5,0
+1739113165097,79,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73399,810,1,1,https://www.n11.com/arama?q=telefon,49,0,0
+1739113165176,82,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,58,0,0
+1739113165259,125,search_empty_query,200,OK,Thread Group 1-1,text,true,,68603,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,45,0,0
+1739113165259,45,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,45,0,0
+1739113165305,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67709,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113165385,386,search_special_characters,200,OK,Thread Group 1-1,text,true,,51103,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,363,0,0
+1739113165773,233,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49042,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,188,0,0
+1739113166006,93,search_large_response,200,OK,Thread Group 1-1,text,true,,85483,813,1,1,https://www.n11.com/arama?q=bilgisayar,63,0,0
+1739113166099,1024,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395122,5836,1,1,null,0,4,0
+1739113166100,115,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73167,810,1,1,https://www.n11.com/arama?q=telefon,63,0,0
+1739113166215,84,search_long_query,200,OK,Thread Group 1-1,text,true,,67515,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,70,0,0
+1739113166300,120,search_empty_query,200,OK,Thread Group 1-1,text,true,,68885,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113166300,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,878,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113166341,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,55,0,0
+1739113166420,369,search_special_characters,200,OK,Thread Group 1-1,text,true,,50984,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,358,0,0
+1739113166790,211,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49062,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,171,0,0
+1739113167002,125,search_large_response,200,OK,Thread Group 1-1,text,true,,85509,813,1,1,https://www.n11.com/arama?q=bilgisayar,54,0,0
+1739113167127,1054,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395565,5836,1,1,null,0,1,0
+1739113167127,97,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,96,0,0
+1739113167224,82,search_long_query,200,OK,Thread Group 1-1,text,true,,66725,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,43,0,0
+1739113167306,137,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113167306,52,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,52,0,0
+1739113167358,85,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,60,0,0
+1739113167443,390,search_special_characters,200,OK,Thread Group 1-1,text,true,,51459,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,369,0,0
+1739113167833,235,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49149,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,172,0,0
+1739113168069,113,search_large_response,200,OK,Thread Group 1-1,text,true,,86161,813,1,1,https://www.n11.com/arama?q=bilgisayar,51,0,0
+1739113168183,913,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396005,5836,1,1,null,0,3,0
+1739113168183,92,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73268,810,1,1,https://www.n11.com/arama?q=telefon,50,0,0
+1739113168276,99,search_long_query,200,OK,Thread Group 1-1,text,true,,67534,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,64,0,0
+1739113168376,188,search_empty_query,200,OK,Thread Group 1-1,text,true,,69578,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,59,0,0
+1739113168376,59,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,59,0,0
+1739113168436,128,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68684,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,95,0,0
+1739113168565,289,search_special_characters,200,OK,Thread Group 1-1,text,true,,51344,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,254,0,0
+1739113168854,154,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49186,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,125,0,0
+1739113169008,91,search_large_response,200,OK,Thread Group 1-1,text,true,,85095,813,1,1,https://www.n11.com/arama?q=bilgisayar,51,0,0
+1739113169099,982,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395544,5836,1,1,null,0,6,0
+1739113169100,102,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73268,810,1,1,https://www.n11.com/arama?q=telefon,72,0,0
+1739113169203,86,search_long_query,200,OK,Thread Group 1-1,text,true,,67531,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,57,0,0
+1739113169290,126,search_empty_query,200,OK,Thread Group 1-1,text,true,,68869,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,41,0,0
+1739113169290,41,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,41,0,0
+1739113169332,84,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67975,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,53,0,0
+1739113169417,360,search_special_characters,200,OK,Thread Group 1-1,text,true,,51224,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,345,0,0
+1739113169778,202,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49180,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,130,0,0
+1739113169981,106,search_large_response,200,OK,Thread Group 1-1,text,true,,85472,813,1,1,https://www.n11.com/arama?q=bilgisayar,65,0,0
+1739113170087,1168,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395717,5836,1,1,null,0,5,0
+1739113170088,118,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73426,810,1,1,https://www.n11.com/arama?q=telefon,76,0,0
+1739113170207,167,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,164,0,0
+1739113170375,179,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,60,0,0
+1739113170375,60,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,60,0,0
+1739113170435,119,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,79,0,0
+1739113170554,366,search_special_characters,200,OK,Thread Group 1-1,text,true,,51180,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,341,0,0
+1739113170921,233,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49213,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,214,0,0
+1739113171154,105,search_large_response,200,OK,Thread Group 1-1,text,true,,85455,813,1,1,https://www.n11.com/arama?q=bilgisayar,52,0,0
+1739113171260,1038,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395413,5836,1,1,null,0,1,0
+1739113171261,88,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73171,810,1,1,https://www.n11.com/arama?q=telefon,54,0,0
+1739113171349,80,search_long_query,200,OK,Thread Group 1-1,text,true,,67534,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,51,0,0
+1739113171429,123,search_empty_query,200,OK,Thread Group 1-1,text,true,,68901,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,40,0,0
+1739113171429,40,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,40,0,0
+1739113171469,83,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,59,0,0
+1739113171552,392,search_special_characters,200,OK,Thread Group 1-1,text,true,,51203,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,368,0,0
+1739113171944,220,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49100,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,195,0,0
+1739113172164,135,search_large_response,200,OK,Thread Group 1-1,text,true,,85504,813,1,1,https://www.n11.com/arama?q=bilgisayar,94,0,0
+1739113172300,958,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395088,5836,1,1,null,0,5,0
+1739113172301,79,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73167,810,1,1,https://www.n11.com/arama?q=telefon,48,0,0
+1739113172381,76,search_long_query,200,OK,Thread Group 1-1,text,true,,67538,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,48,0,0
+1739113172457,140,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113172457,52,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,52,0,0
+1739113172509,88,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,55,0,0
+1739113172597,385,search_special_characters,200,OK,Thread Group 1-1,text,true,,50946,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,364,0,0
+1739113172983,181,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49062,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,160,0,0
+1739113173165,97,search_large_response,200,OK,Thread Group 1-1,text,true,,85469,813,1,1,https://www.n11.com/arama?q=bilgisayar,62,0,0
+1739113173263,1063,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395445,5836,1,1,null,0,4,0
+1739113173264,110,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73165,810,1,1,https://www.n11.com/arama?q=telefon,47,0,0
+1739113173374,85,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,66,0,0
+1739113173460,113,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,34,0,0
+1739113173460,34,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,34,0,0
+1739113173494,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,59,0,0
+1739113173573,366,search_special_characters,200,OK,Thread Group 1-1,text,true,,51294,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,340,0,0
+1739113173939,304,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49075,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,206,0,0
+1739113174245,85,search_large_response,200,OK,Thread Group 1-1,text,true,,85469,813,1,1,https://www.n11.com/arama?q=bilgisayar,44,0,0
+1739113174331,1050,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394611,5836,1,1,null,0,6,0
+1739113174332,96,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73164,810,1,1,https://www.n11.com/arama?q=telefon,63,0,0
+1739113174429,80,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,50,0,0
+1739113174510,123,search_empty_query,200,OK,Thread Group 1-1,text,true,,68034,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,37,0,0
+1739113174510,37,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,37,0,0
+1739113174547,86,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67140,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113174635,394,search_special_characters,200,OK,Thread Group 1-1,text,true,,51192,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,375,0,0
+1739113175030,227,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49157,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,219,0,0
+1739113175257,130,search_large_response,200,OK,Thread Group 1-1,text,true,,85527,813,1,1,https://www.n11.com/arama?q=bilgisayar,54,0,0
+1739113175388,961,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395458,5836,1,1,null,0,2,0
+1739113175388,100,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73431,810,1,1,https://www.n11.com/arama?q=telefon,55,0,0
+1739113175488,88,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,56,0,0
+1739113175577,130,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,44,0,0
+1739113175577,44,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,44,0,0
+1739113175621,86,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,61,0,0
+1739113175708,301,search_special_characters,200,OK,Thread Group 1-1,text,true,,50969,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,276,0,0
+1739113176009,231,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49152,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,205,0,0
+1739113176240,111,search_large_response,200,OK,Thread Group 1-1,text,true,,85464,813,1,1,https://www.n11.com/arama?q=bilgisayar,80,0,0
+1739113176351,1027,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396346,5836,1,1,null,0,2,0
+1739113176352,102,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73884,810,1,1,https://www.n11.com/arama?q=telefon,45,0,0
+1739113176454,102,search_long_query,200,OK,Thread Group 1-1,text,true,,67536,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,47,0,0
+1739113176556,134,search_empty_query,200,OK,Thread Group 1-1,text,true,,68899,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,39,0,0
+1739113176556,39,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,39,0,0
+1739113176596,94,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68004,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,48,0,0
+1739113176690,407,search_special_characters,200,OK,Thread Group 1-1,text,true,,51365,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,387,0,0
+1739113177097,186,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49207,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,167,0,0
+1739113177283,96,search_large_response,200,OK,Thread Group 1-1,text,true,,85455,813,1,1,https://www.n11.com/arama?q=bilgisayar,56,0,0
+1739113177380,1016,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395607,5836,1,1,null,0,4,0
+1739113177381,80,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73431,810,1,1,https://www.n11.com/arama?q=telefon,52,0,0
+1739113177462,105,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,75,0,0
+1739113177568,114,search_empty_query,200,OK,Thread Group 1-1,text,true,,68618,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,33,0,0
+1739113177568,33,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,33,0,0
+1739113177601,81,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67724,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,45,0,0
+1739113177683,384,search_special_characters,200,OK,Thread Group 1-1,text,true,,51327,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,358,0,0
+1739113178067,207,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49188,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,195,0,0
+1739113178274,126,search_large_response,200,OK,Thread Group 1-1,text,true,,85504,813,1,1,https://www.n11.com/arama?q=bilgisayar,74,0,0
+1739113178401,882,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394665,5836,1,1,null,0,2,0
+1739113178401,93,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73172,810,1,1,https://www.n11.com/arama?q=telefon,64,0,0
+1739113178494,81,search_long_query,200,OK,Thread Group 1-1,text,true,,66775,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,56,0,0
+1739113178575,133,search_empty_query,200,OK,Thread Group 1-1,text,true,,68890,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,40,0,0
+1739113178575,40,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,878,803,1,1,https://www.n11.com/arama?q=,40,0,0
+1739113178616,92,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,65,0,0
+1739113178709,283,search_special_characters,200,OK,Thread Group 1-1,text,true,,51571,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,262,0,0
+1739113178992,196,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49163,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,175,0,0
+1739113179188,96,search_large_response,200,OK,Thread Group 1-1,text,true,,85094,813,1,1,https://www.n11.com/arama?q=bilgisayar,44,0,0
+1739113179285,1120,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396218,5836,1,1,null,0,4,0
+1739113179285,93,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73425,810,1,1,https://www.n11.com/arama?q=telefon,49,0,0
+1739113179378,88,search_long_query,200,OK,Thread Group 1-1,text,true,,67532,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,56,0,0
+1739113179467,167,search_empty_query,200,OK,Thread Group 1-1,text,true,,68608,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,63,0,0
+1739113179467,63,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,63,0,0
+1739113179530,104,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67714,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,102,0,0
+1739113179635,462,search_special_characters,200,OK,Thread Group 1-1,text,true,,51348,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,434,0,0
+1739113180098,205,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49161,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,175,0,0
+1739113180303,105,search_large_response,200,OK,Thread Group 1-1,text,true,,86144,813,1,1,https://www.n11.com/arama?q=bilgisayar,54,0,0
+1739113180409,1062,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396705,5836,1,1,null,0,6,0
+1739113180410,96,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73534,810,1,1,https://www.n11.com/arama?q=telefon,55,0,0
+1739113180507,73,search_long_query,200,OK,Thread Group 1-1,text,true,,67498,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,43,0,0
+1739113180581,145,search_empty_query,200,OK,Thread Group 1-1,text,true,,69580,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,44,0,0
+1739113180581,44,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,1566,803,1,1,https://www.n11.com/arama?q=,44,0,0
+1739113180625,101,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68014,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,72,0,0
+1739113180727,414,search_special_characters,200,OK,Thread Group 1-1,text,true,,51427,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,380,0,0
+1739113181142,251,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49202,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,231,0,0
+1739113181394,83,search_large_response,200,OK,Thread Group 1-1,text,true,,85464,813,1,1,https://www.n11.com/arama?q=bilgisayar,52,0,0
+1739113181478,977,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394956,5836,1,1,null,0,0,0
+1739113181478,84,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73428,810,1,1,https://www.n11.com/arama?q=telefon,51,0,0
+1739113181562,86,search_long_query,200,OK,Thread Group 1-1,text,true,,67516,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,70,0,0
+1739113181648,113,search_empty_query,200,OK,Thread Group 1-1,text,true,,68052,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,34,0,0
+1739113181648,34,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,895,803,1,1,https://www.n11.com/arama?q=,34,0,0
+1739113181683,78,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67157,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113181761,374,search_special_characters,200,OK,Thread Group 1-1,text,true,,51298,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,350,0,0
+1739113182136,205,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49154,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,182,0,0
+1739113182341,115,search_large_response,200,OK,Thread Group 1-1,text,true,,85508,813,1,1,https://www.n11.com/arama?q=bilgisayar,63,0,0
+1739113182456,945,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395631,5836,1,1,null,0,4,0
+1739113182457,86,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73433,810,1,1,https://www.n11.com/arama?q=telefon,48,0,0
+1739113182544,75,search_long_query,200,OK,Thread Group 1-1,text,true,,67537,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,44,0,0
+1739113182619,121,search_empty_query,200,OK,Thread Group 1-1,text,true,,68034,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,42,0,0
+1739113182619,42,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,42,0,0
+1739113182661,79,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67140,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,47,0,0
+1739113182741,397,search_special_characters,200,OK,Thread Group 1-1,text,true,,52121,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,378,0,0
+1739113183139,180,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49002,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,153,0,0
+1739113183319,86,search_large_response,200,OK,Thread Group 1-1,text,true,,85504,813,1,1,https://www.n11.com/arama?q=bilgisayar,68,0,0
+1739113183405,956,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394196,5836,1,1,null,0,3,0
+1739113183406,81,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73156,810,1,1,https://www.n11.com/arama?q=telefon,62,0,0
+1739113183487,105,search_long_query,200,OK,Thread Group 1-1,text,true,,67533,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,62,0,0
+1739113183593,150,search_empty_query,200,OK,Thread Group 1-1,text,true,,68029,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,53,0,0
+1739113183593,53,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,53,0,0
+1739113183646,97,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67135,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,43,0,0
+1739113183743,360,search_special_characters,200,OK,Thread Group 1-1,text,true,,51264,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,330,0,0
+1739113184103,178,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49119,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,155,0,0
+1739113184281,82,search_large_response,200,OK,Thread Group 1-1,text,true,,85095,813,1,1,https://www.n11.com/arama?q=bilgisayar,56,0,0
+1739113184364,1015,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396625,5836,1,1,null,0,6,0
+1739113184365,103,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73170,810,1,1,https://www.n11.com/arama?q=telefon,63,0,0
+1739113184469,93,search_long_query,200,OK,Thread Group 1-1,text,true,,68232,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,61,0,0
+1739113184563,145,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,42,0,0
+1739113184563,42,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,42,0,0
+1739113184605,103,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,61,0,0
+1739113184709,371,search_special_characters,200,OK,Thread Group 1-1,text,true,,51624,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,352,0,0
+1739113185081,172,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49215,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,139,0,0
+1739113185253,131,search_large_response,200,OK,Thread Group 1-1,text,true,,85478,813,1,1,https://www.n11.com/arama?q=bilgisayar,106,0,0
+1739113185385,1006,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,394726,5836,1,1,null,0,3,0
+1739113185385,98,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73170,810,1,1,https://www.n11.com/arama?q=telefon,47,0,0
+1739113185484,86,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,49,0,0
+1739113185570,159,search_empty_query,200,OK,Thread Group 1-1,text,true,,68906,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,51,0,0
+1739113185570,51,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,51,0,0
+1739113185621,108,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68012,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,68,0,0
+1739113185730,335,search_special_characters,200,OK,Thread Group 1-1,text,true,,50867,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,298,0,0
+1739113186066,186,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49149,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,150,0,0
+1739113186252,142,search_large_response,200,OK,Thread Group 1-1,text,true,,85095,813,1,1,https://www.n11.com/arama?q=bilgisayar,114,0,0
+1739113186394,919,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395604,5836,1,1,null,0,3,0
+1739113186394,101,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73172,810,1,1,https://www.n11.com/arama?q=telefon,76,0,0
+1739113186496,92,search_long_query,200,OK,Thread Group 1-1,text,true,,67534,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,57,0,0
+1739113186588,137,search_empty_query,200,OK,Thread Group 1-1,text,true,,68908,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,35,0,0
+1739113186588,35,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,35,0,0
+1739113186623,102,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68014,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,71,0,0
+1739113186725,266,search_special_characters,200,OK,Thread Group 1-1,text,true,,51315,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,236,0,0
+1739113186992,227,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49165,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,199,0,0
+1739113187219,96,search_large_response,200,OK,Thread Group 1-1,text,true,,85510,813,1,1,https://www.n11.com/arama?q=bilgisayar,59,0,0
+1739113187315,939,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,396503,5836,1,1,null,0,1,0
+1739113187315,94,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73885,810,1,1,https://www.n11.com/arama?q=telefon,60,0,0
+1739113187409,105,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,71,0,0
+1739113187515,130,search_empty_query,200,OK,Thread Group 1-1,text,true,,68901,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,36,0,0
+1739113187515,36,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,36,0,0
+1739113187551,94,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,68007,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,52,0,0
+1739113187645,319,search_special_characters,200,OK,Thread Group 1-1,text,true,,51499,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,289,0,0
+1739113187964,189,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49169,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,151,0,0
+1739113188153,102,search_large_response,200,OK,Thread Group 1-1,text,true,,85510,813,1,1,https://www.n11.com/arama?q=bilgisayar,59,0,0
+1739113188255,993,Search,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,395735,5836,1,1,null,0,4,0
+1739113188256,88,search_common_keyword,200,OK,Thread Group 1-1,text,true,,73433,810,1,1,https://www.n11.com/arama?q=telefon,59,0,0
+1739113188345,77,search_long_query,200,OK,Thread Group 1-1,text,true,,67539,894,1,1,https://www.n11.com/arama?q=Samsung+Galaxy+S21+Ultra+256+GB+Phantom+Black+%C3%87ift+Hatl%C4%B1+Ak%C4%B1ll%C4%B1+Telefon,54,0,0
+1739113188422,119,search_empty_query,200,OK,Thread Group 1-1,text,true,,68888,1641,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,34,0,0
+1739113188422,34,search_empty_query-0,301,Moved Permanently,Thread Group 1-1,,true,,894,803,1,1,https://www.n11.com/arama?q=,34,0,0
+1739113188456,85,search_empty_query-1,200,OK,Thread Group 1-1,text,true,,67994,838,1,1,https://www.n11.com/?isRelaunchItem=true&fillFavouriteIcon=true,57,0,0
+1739113188542,387,search_special_characters,200,OK,Thread Group 1-1,text,true,,51943,850,1,1,https://www.n11.com/arama?q=%21%40%23%24%25%5E%26%2A%28%29_%2B&keyword=ipho,334,0,0
+1739113188929,230,search_numeric_query,200,OK,Thread Group 1-1,text,true,,49147,828,1,1,https://www.n11.com/arama?q=1234567890&keyword=iphone,202,0,0
+1739113189160,92,search_large_response,200,OK,Thread Group 1-1,text,true,,84785,813,1,1,https://www.n11.com/arama?q=bilgisayar,57,0,0

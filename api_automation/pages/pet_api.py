@@ -6,18 +6,18 @@ class PetAPI:
         self.base_url = f"{BASE_URL}/pet"
 
     def upload_pet_image(self, pet_id, image_path, additional_metadata=""):
-        """Bir pet için resim yükler."""
+        """Uploads an image for a pet."""
         url = f"{self.base_url}/{pet_id}/uploadImage"
         files = {"file": open(image_path, "rb")}
         data = {"additionalMetadata": additional_metadata}
 
         response = requests.post(url, files=files, data=data)
-        files["file"].close()  # Dosyayı kapatalım, aksi halde sorun çıkarabilir.
+        files["file"].close()  # Close the file to prevent issues.
         return response
 
     def create_pet(self, pet_id, name, category_id=0, category_name="default", 
                    photo_urls=None, tags=None, status="available"):
-        """Yeni bir pet oluşturur."""
+        """Creates a new pet."""
 
         if photo_urls is None:
             photo_urls = ["https://example.com/default.jpg"]
@@ -39,7 +39,7 @@ class PetAPI:
 
     def update_pet(self, pet_id, name, category_id=0, category_name="string",
                    photo_urls=None, tags=None, status="available"):
-        """Var olan bir pet'i günceller."""
+        """Updates an existing pet."""
 
         if photo_urls is None:
             photo_urls = ["https://example.com/default.jpg"]
@@ -60,18 +60,18 @@ class PetAPI:
         return response
 
     def find_pets_by_status(self, status):
-        """Belirtilen duruma göre pet'leri getirir."""
+        """Retrieves pets based on the specified status."""
         params = {"status": status}
         response = requests.get(f"{self.base_url}/findByStatus", params=params)
         return response
 
     def get_pet_by_id(self, pet_id):
-        """Belirtilen pet ID'ye göre pet bilgilerini getirir."""
+        """Fetches pet details based on the given pet ID."""
         response = requests.get(f"{self.base_url}/{pet_id}")
         return response
 
     def update_pet_by_form(self, pet_id, name=None, status=None):
-        """Belirtilen pet ID'yi form verisi ile günceller."""
+        """Updates the specified pet ID using form data."""
         url = f"{self.base_url}/{pet_id}"
         data = {}
 
@@ -84,7 +84,7 @@ class PetAPI:
         return response
 
     def delete_pet_by_id(self, pet_id, api_key=""):
-        """Belirtilen pet ID'yi siler."""
+        """Deletes a pet based on the given pet ID."""
         url = f"{self.base_url}/{pet_id}"
         headers = {"api_key": api_key} if api_key else {}
 

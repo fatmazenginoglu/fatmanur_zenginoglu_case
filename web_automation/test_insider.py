@@ -29,4 +29,4 @@ def test_insider_careers(driver):
     # **Verify that clicking the "View Role" button redirects to the application form**
     career.click_view_role() 
     
-    print("✅ Test completed successfully!")
+    print("Test completed successfully!")

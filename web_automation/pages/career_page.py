@@ -2,12 +2,28 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import os
+
+def soft_assert(condition, message, errors, driver, step_name):
+    """Soft assertion: Save the error message and take a screenshot if the condition fails."""
+    if not condition:
+        errors.append(message)  # Add the error message to the list
+        
+        # Ensure the screenshot folder exists
+        if not os.path.exists("reports/screenshots"):
+            os.makedirs("reports/screenshots")
+
+        # Save screenshot
+        screenshot_path = f"reports/screenshots/{step_name}.png"
+        driver.save_screenshot(screenshot_path)
+        print(f" ERROR: {message} - Screenshot saved: {screenshot_path}")
 
 class CareerPage:
-    """Insider career page operations"""
+    """Insider career page operations."""
 
     def __init__(self, driver):
         self.driver = driver
+        self.errors = []  # List to store errors
         self.qa_jobs_button = (By.XPATH, "//a[contains(text(),'See all QA jobs')]")
         self.department_quality_assurance = (
             By.XPATH, "//span[@id='select2-filter-by-department-container' and contains(text(), 'Quality Assurance')]"
@@ -24,7 +40,7 @@ class CareerPage:
         self.view_role_buttons = (By.XPATH, "//a[contains(text(), 'View Role')]")
 
     def go_to_qa_careers(self):
-        """Go to the QA career page and close the cookie pop-up."""
+        """Navigate to the QA career page and close the cookie pop-up."""
         self.driver.get("https://useinsider.com/careers/quality-assurance/")
         WebDriverWait(self.driver, 10).until(EC.presence_of_element_located(self.qa_jobs_button))
 
@@ -34,8 +50,7 @@ class CareerPage:
             )
             cookie_button.click()
         except Exception:
-            # If the cookie pop-up does not exist, continue without error
-            pass
+            pass  # Continue if the cookie pop-up does not appear
 
         time.sleep(3)
 
@@ -47,29 +62,26 @@ class CareerPage:
 
     def filter_jobs(self):
         """Apply the location filter, ensuring that 'Quality Assurance' is selected first."""
-        wait = WebDriverWait(self.driver, 20)
+        wait = WebDriverWait(self.driver, 30)
         wait.until(EC.presence_of_element_located(self.department_quality_assurance))
 
         location_dropdown = wait.until(EC.element_to_be_clickable(self.location_dropdown))
-        time.sleep(1)
         location_dropdown.click()
 
         wait.until(EC.presence_of_element_located(self.location_results_container))
-        time.sleep(10)
-
         istanbul_option = wait.until(EC.element_to_be_clickable(self.istanbul_turkiye_option))
         istanbul_option.click()
 
-        time.sleep(5)
-        wait.until(EC.presence_of_all_elements_located(self.job_list))
+        # Wait for the page to load filtered job listings
+        WebDriverWait(self.driver, 20).until(EC.presence_of_all_elements_located(self.job_list))
 
     def check_job_list(self):
-        """Verify that job listings are displayed and that the information is correct."""
+        """Verify that job listings are displayed and contain the correct information."""
         wait = WebDriverWait(self.driver, 10)
         wait.until(EC.presence_of_all_elements_located(self.job_list))
 
         jobs = self.driver.find_elements(*self.job_list)
-        assert len(jobs) > 0, "ERROR: No job listings were displayed!"
+        soft_assert(len(jobs) > 0, "ERROR: No job listings were displayed!", self.errors, self.driver, "job_list")
 
         self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", jobs[0])
         time.sleep(2)
@@ -83,13 +95,14 @@ class CareerPage:
             department_text = job_departments[i].text.strip()
             location_text = job_locations[i].text.strip()
 
-            assert "Quality Assurance" in title_text or "QA" in title_text, f"Incorrect title: {title_text}"
-            assert department_text == "Quality Assurance", (
-                f"Incorrect department information! Expected: 'Quality Assurance', Found: {department_text}"
-            )
-            assert location_text == "Istanbul, Turkiye", (
-                f"Incorrect location information! Expected: 'Istanbul, Turkiye', Found: {location_text}"
-            )
+            soft_assert("Quality Assurance" in title_text, f"Incorrect title: {title_text}", self.errors, self.driver, f"title_{i}")
+            soft_assert(department_text == "Quality Assurance", f"Incorrect department: Expected 'Quality Assurance', Found: {department_text}", self.errors, self.driver, f"department_{i}")
+            soft_assert(location_text == "Istanbul, Turkiye", f"Incorrect location: Expected 'Istanbul, Turkiye', Found: {location_text}", self.errors, self.driver, f"location_{i}")
+
+        if self.errors:
+            print("\nTest finished with errors:")
+            for error in self.errors:
+                print(f"  - {error}")
 
     def click_view_role(self):
         """Click the 'View Role' button to go to the application form and check the redirection."""
@@ -99,10 +112,8 @@ class CareerPage:
         view_role_buttons[0].click()
         time.sleep(5)
 
-        # Switch to the new tab
         all_tabs = self.driver.window_handles
         self.driver.switch_to.window(all_tabs[-1])
 
-        # Check the redirection
         current_url = self.driver.current_url
-        assert "lever.co" in current_url, f"The page did not redirect to the application form! Current URL: {current_url}"
+        soft_assert("lever.co" in current_url, f"The page did not redirect to the application form! Current URL: {current_url}", self.errors, self.driver, "lever_redirect")

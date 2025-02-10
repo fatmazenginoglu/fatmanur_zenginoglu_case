@@ -6,62 +6,47 @@ from pages.pet_api import PetAPI
 def pet_api():
     return PetAPI()
 
-# ✅ POZİTİF TESTLER
+# POSITIVE TEST CASES
 def test_create_pet_success(pet_api):
-    """Geçerli bir pet ekleme (Pozitif)"""
+    """Adding a valid pet (Positive)"""
     response = pet_api.create_pet(1005, "Golden Retriever")
-    assert response.status_code in [200, 201]
+    assert response.status_code in [200]
     assert response.json()["name"] == "Golden Retriever"
 
 def test_create_pet_with_different_category(pet_api):
-    """Farklı kategori ve tag ile pet ekleme (Pozitif)"""
+    """Adding a pet with a different category and tag"""
     response = pet_api.create_pet(1006, "Siamese Cat", category_id=1, category_name="Cat", 
                                   tags=[{"id": 1, "name": "Cute"}])
-    assert response.status_code in [200, 201]
+    assert response.status_code in [200]
     assert response.json()["category"]["name"] == "Cat"
 
-# ❌ NEGATİF TESTLER (API'nin GERÇEK DAVRANIŞINA GÖRE GÜNCELLENDİ)
+# NEGATIVE TEST CASES 
 def test_create_pet_without_name(pet_api):
-    """Eksik `name` alanı ile istek gönderme (API 200 dönüyor)"""
+    """Sending a request without the `name` field"""
     response = pet_api.create_pet(1007, None)
-
-    print("\n🔍 Yanıt Kodu:", response.status_code)
-    print("📄 Yanıt İçeriği:", response.text)
-
-    assert response.status_code == 200  # 405 bekliyorduk ama API 200 döndürüyor
+    assert response.status_code == 200 
 
 def test_create_pet_without_photo_urls(pet_api):
-    """Eksik `photoUrls` alanı ile istek gönderme (API 200 dönüyor)"""
+    """Sending a request without the `photoUrls` field"""
     response = pet_api.create_pet(1008, "NoPhotoPet", photo_urls=[])
-
-    print("\n🔍 Yanıt Kodu:", response.status_code)
-    print("📄 Yanıt İçeriği:", response.text)
-
-    assert response.status_code == 200  # 405 bekliyorduk ama API 200 döndürüyor
+    assert response.status_code == 200
 
 def test_create_pet_with_invalid_status(pet_api):
-    """Geçersiz `status` değeri ile istek gönderme (API 200 dönüyor)"""
+    """Sending a request with an invalid `status` value"""
     response = pet_api.create_pet(1009, "WeirdPet", status="notavailable")
-
-    print("\n🔍 Yanıt Kodu:", response.status_code)
-    print("📄 Yanıt İçeriği:", response.text)
-
-    assert response.status_code == 200  # 405 bekliyorduk ama API 200 döndürüyor
+    assert response.status_code == 200
 
 def test_create_pet_with_empty_body(pet_api):
-    """Tamamen boş JSON ile istek gönderme (API 200 dönüyor)"""
+    """Sending a completely empty JSON request"""
     response = requests.post(pet_api.base_url, json={})
-
-    print("\n🔍 Yanıt Kodu:", response.status_code)
-    print("📄 Yanıt İçeriği:", response.text)
-
-    assert response.status_code == 200  # 405 bekliyorduk ama API 200 döndürüyor
+    assert response.status_code == 200
 
 def test_create_pet_with_string_id(pet_api):
-    """`id` alanını string olarak göndermek (API 500 Internal Server Error dönüyor)"""
+    """Sending the `id` field as a string"""
     response = pet_api.create_pet("string_id", "InvalidIDPet")
+    assert response.status_code == 500
 
-    print("\n🔍 Yanıt Kodu:", response.status_code)
-    print("📄 Yanıt İçeriği:", response.text)
-
-    assert response.status_code == 500  # 405 bekliyorduk ama API 500 döndürüyor
+def test_create_pet_with_get_method(pet_api):
+    """Trying to create a pet using the GET method"""
+    response = requests.get(pet_api.base_url)
+    assert response.status_code == 405
